@@ -2,7 +2,7 @@ This is a project for an election for two ficticious candidates. It features a U
 
 ## Contents in repository
 
-HTML - The main page for the layout of the map
-CSS- Information for styling and aesthetics
-Javascript - contains code for interactive elements of the map. 
+ - HTML - The main page for the layout of the map
+ - CSS- Information for styling and aesthetics
+ - Javascript - contains code for interactive elements of the map. 
 
